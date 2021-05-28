@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\TaskTracker\TaskTracker\bin\Debug\TaskTracker.exe.config
+C:\Users\ASUS\source\repos\TaskTracker\TaskTracker\bin\Debug\TaskTracker.exe
+C:\Users\ASUS\source\repos\TaskTracker\TaskTracker\bin\Debug\TaskTracker.pdb
+C:\Users\ASUS\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.MainForm.resources
+C:\Users\ASUS\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.NewTask.resources
+C:\Users\ASUS\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.Properties.Resources.resources
+C:\Users\ASUS\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.exe
+C:\Users\ASUS\source\repos\TaskTracker\TaskTracker\obj\Debug\TaskTracker.pdb
